@@ -1,0 +1,10 @@
+Package: miniforge3
+Section: devel
+Priority: optional
+Maintainer: coplo <dayearnew@gmail.com>
+Homepage: https://github.com/conda-forge/miniforge
+Depends: libc6
+Description: Minimal conda-forge distribution
+ Miniforge provides conda and mamba with conda-forge configured as the
+ default package channel. The system-managed base environment is installed
+ under /opt/miniforge3.
